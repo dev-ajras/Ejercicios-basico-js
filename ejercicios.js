@@ -31,3 +31,21 @@
 // 16- Escribir un programa que escriba en pantalla los divisores comunes de dos números dados
 
 // 17- Escribir un programa que nos diga si un número dado es primo (no es divisible por ninguno otro número que no sea él mismo o la unidad)
+
+// EJERCICIOS PRACTICOS DOM
+
+// 1- Hacer un boton que al clickearlo me muestre una imagen de harry potter en pantalla
+
+// 2- Armar 4 botones, cada uno despliega la imagen de una de las casas de hogwarts al ser presionado.
+
+// 3- Con un input, poder ingresar nombres de estudiantes y que estos queden guardados en una lista.
+
+// POO
+
+// FETCHEAR API'S 
+
+// 1- Usar la api de star wars, armar un buscador que permita encontrar : personajes, planetas y naves.
+
+// 2- Armar una pokedex, haciendo uso de la pag = pokeapi.co
+
+// 5- Armar tu porfolio con proyectos, ejercicios.
